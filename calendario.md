@@ -1,3 +1,4 @@
 dia 0 
--taller de como usar la computadora
--
+- taller de como usar la computadora
+- taller de prompt
+- taller github
